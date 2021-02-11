@@ -25,9 +25,9 @@ namespace Brooklyn99
                 $"{" ",-40}Welcome to Halloween Heist\n" +
                 $"{" ",-45}Hide and Seek\n\n");
             Console.WriteLine($"{" ",-30}You can use these words and letters to play the game...");
-            Console.WriteLine($"{" ",-33}  'go' 'head' 'leave' 'exit'  Go to an adjacent room.");
+            Console.WriteLine($"{" ",-33}'go' / 'head' / 'leave' / 'exit' + room name: Go to an adjacent room.");
             Console.WriteLine(" ");
-            Console.WriteLine($"{" ",-27}'m' / 'map':   Allows you to see the items in your inventory.");
+            Console.WriteLine($"{" ",-27}'m' / 'map':   Allows you to see the map of the precinct.");
             Console.WriteLine($"{" ",-35}'q' / 'quit':        Quits the game.");
             ImTheMap();
             Console.ReadKey();
