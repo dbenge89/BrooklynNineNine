@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ElevenFiftyProjects\\SDLessons\\SDLessons1\\Brooklyn99\\Brooklyn99.csproj": {}
+    "C:\\Users\\mboon\\OneDrive\\Desktop\\BrooklynNineNine\\BrooklynNineNine\\Brooklyn99.csproj": {}
   },
   "projects": {
-    "D:\\ElevenFiftyProjects\\SDLessons\\SDLessons1\\Brooklyn99\\Brooklyn99.csproj": {
+    "C:\\Users\\mboon\\OneDrive\\Desktop\\BrooklynNineNine\\BrooklynNineNine\\Brooklyn99.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ElevenFiftyProjects\\SDLessons\\SDLessons1\\Brooklyn99\\Brooklyn99.csproj",
+        "projectUniqueName": "C:\\Users\\mboon\\OneDrive\\Desktop\\BrooklynNineNine\\BrooklynNineNine\\Brooklyn99.csproj",
         "projectName": "Brooklyn99",
-        "projectPath": "D:\\ElevenFiftyProjects\\SDLessons\\SDLessons1\\Brooklyn99\\Brooklyn99.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "D:\\ElevenFiftyProjects\\SDLessons\\SDLessons1\\Brooklyn99\\obj\\",
+        "projectPath": "C:\\Users\\mboon\\OneDrive\\Desktop\\BrooklynNineNine\\BrooklynNineNine\\Brooklyn99.csproj",
+        "packagesPath": "C:\\Users\\mboon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mboon\\OneDrive\\Desktop\\BrooklynNineNine\\BrooklynNineNine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mboon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
