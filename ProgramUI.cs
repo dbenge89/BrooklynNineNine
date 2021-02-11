@@ -280,16 +280,16 @@ namespace Brooklyn99
         {
             Console.WriteLine(" ");
             Console.WriteLine(" ");
-            Console.WriteLine("               ___________________________                                      ");
-            Console.WriteLine("              ||     ||                  ||            ______________           ");
-            Console.WriteLine("              ||     ||   Interrogation  ||           ||            ||          ");
-            Console.WriteLine("              ||     ||       Room       ||           ||  Briefing  ||       || ");
-            Console.WriteLine("              ||     ||__________________||           ||    Room    ||       || ");
-            Console.WriteLine("   ___________||                       ||             ||____________||       || ");
-            Console.WriteLine("  ||          ||          Kitchen      ||                                    || ");
-            Console.WriteLine("  || Waiting  ||                                                             || ");
-            Console.WriteLine("  ||  Room    ||                                                             || ");
-            Console.WriteLine("  ||____                                                        _____________|| ");
+            Console.WriteLine("       _____________________________________                                      ");
+            Console.WriteLine("      ||        ||  h  ||                  ||            ______________           ");
+            Console.WriteLine("      ||bathroom||  a  ||   Interrogation  ||           ||            ||          ");
+            Console.WriteLine("      ||________||  l  ||       Room       ||           ||  Briefing  ||       || ");
+            Console.WriteLine("                ||  l  ||__________________||           ||    Room    ||       || ");
+            Console.WriteLine("   _____________||  w                    ||             ||____________||       || ");
+            Console.WriteLine("  ||            ||  a       Kitchen      ||                                    || ");
+            Console.WriteLine("  || Waiting    ||  y                                                          || ");
+            Console.WriteLine("  ||  Room      ||                                                             || ");
+            Console.WriteLine("  ||____                                                        _______________|| ");
             Console.WriteLine("  || Elevator                    Bullpen                       ||         || ");
             Console.WriteLine("  ||___||______                                                ||  Copy   || ");
             Console.WriteLine("  ||          ||                                               ||  Room   || ");
